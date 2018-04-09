@@ -9,7 +9,8 @@
 6) Fastest lap information will be stored in the BeamNG.drive\levels\derby\racedata folder. 
 7) Added code for ai for collisions and side-to-side racing. 
 8) Added a race ending message with top three places. 
-  Known Problems:  
+9)  
+ Known Problems:  
   a) Oval Racing - Causing a vehicle exception because of an issue with the throttle value. 
   b) Oval Racing - Waypoints on start need adjustment.  AI drives to the right on start. 
   b) Welding - Sometimes not working if duplicate nodes are found.

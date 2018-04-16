@@ -1,5 +1,8 @@
 # Demolition-Derby---The-Fair-Grounds
 
+8.0.2 Alpha Update
+1) Fixed welding on large vehicles and van,trucks.
+
 8.0 Alpha Update
 1) Fixed loading errors after the BeamNG 12 update
 2) Fixed the Derby Place App 

@@ -1,5 +1,9 @@
 # Demolition-Derby---The-Fair-Grounds
 
+8.0.3 Alpha Update
+1) Added auto reverse for the interior camera
+2) Fixed a bug in findtarget for Derby AI
+
 8.0.2 Alpha Update
 1) Fixed welding on large vehicles and van,trucks.
 

@@ -1,5 +1,15 @@
 # Demolition-Derby---The-Fair-Grounds
 
+9.0.0
+1) Created a new Derby App.  The new app can be used on any map in freeroam mode.  The location must have two waypoints and one road between the waypoint's close to the ai's spawn point.  
+2) Worked on an app to create a custom derby scenario on any map.  
+3) Changed the load point for the derby files.
+
+8.5.0
+1) Improved welding on large vehicles and van,trucks
+2) Rewrite of the Derby AI.
+3) Fix for overheating vehicles. They can still overheat to the point of the engine shutdown but only if the radiator is damaged.
+
 8.0.3 Alpha Update
 1) Added auto reverse for the interior camera
 2) Fixed a bug in findtarget for Derby AI

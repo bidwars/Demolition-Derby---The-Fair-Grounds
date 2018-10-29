@@ -7,6 +7,7 @@
 4) Moved the racing ai over to the gdai file.  This should make the ai more like the original ai from the game when racing.
 5) The winning vehicle driver name is now random. 
 6) Added a Setting tab on the sceanrio loading screen.  For future use.
+7) AI will now drive to a target point before going after a target.  Still a WIP. 
 
 8.5.0
 1) Improved welding on large vehicles and van,trucks

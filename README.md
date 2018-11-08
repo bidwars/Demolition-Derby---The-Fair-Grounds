@@ -1,13 +1,28 @@
 # Demolition-Derby---The-Fair-Grounds
 
-9.0.0 beta - debug code is still turned on for internal testing. 
+9.0.0
 1) Created a new Derby Scenario App.  This allows you to drive to any point on the map in freeroam.  Once you have a place to derby then you open the Demolition Derby app and click the Start Scenario button.  The new app can be used on any map in freeroam mode.  The location must have two waypoints and one road between the waypoint's to the ai's spawn point.  
 2) Added tooltips to the Scenario loading screen. Click the ? mark for more information.
-3) Changed the load point for the derby files. Also renamed and simplifed the file names. 
-4) Moved the racing ai over to the gdai file.  This should make the ai more like the original ai from the game when racing.
-5) The winning vehicle driver name is now random. 
-6) Added a Setting tab on the sceanrio loading screen.  For future use.
-7) AI will now drive to a target point before going after a target.  Still a WIP. 
+3) Changed the load point for the derby files. Also renamed and simplifed the file names
+4) Moved the racing ai over to the gdai file.  This should make the ai more like the original ai from the game when racing
+5) The winning vehicle driver name is now random
+6) Added a Setting tab on the sceanrio loading screen.  For future use
+7) AI will now drive to a target point before going after a target
+8) Added collision detection for out of Arena
+9) Fixed wall collision detection for Arena if driving backwards
+10) Added more AI aggression
+11) Fixed the derbyPlace App so it will show when the race scenario is started
+12) Added a random target point for the AI
+13) Add bus to the random filter
+14) Changed restarts so it does not delete vehicles
+15) Fixed the lap and checkpoints for racing scenario
+16) Fixed lookback camera
+
+Known Problems: 
+ a)FreeFall Arena the AI drives directly into the center drop point.  The code for avoiding the center has not been moved to the new AI file yet.  
+ b)Racing scenario's AI is slow.  This will be addressed in a future update. 
+ c)Welding - Sometimes not working if duplicate nodes are found.
+ 
 
 8.5.0
 1) Improved welding on large vehicles and van,trucks

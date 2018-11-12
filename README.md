@@ -17,7 +17,9 @@
 14) Changed restarts so it does not delete vehicles
 15) Fixed the lap and checkpoints for racing scenario
 16) Fixed lookback camera
-17) Updated scenario Images 
+17) Updated scenario Images.  Created by DD-Indeed
+18) Updated vehicles configs.  Created by DD-Indeed
+
 
 Known Problems: 
  a)FreeFall Arena the AI drives directly into the center drop point.  The code for avoiding the center has not been moved to the new AI file yet.  

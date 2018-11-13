@@ -1,5 +1,10 @@
 # Demolition-Derby---The-Fair-Grounds
 
+
+9.0.1
+1)New vehicle configs
+2)Fix for scenario not showing. You should not have to unpack the mod. 
+
 9.0.0
 1) Created a new Derby Scenario App.  This allows you to drive to any point on the map in freeroam.  Once you have a place to derby then you open the Demolition Derby app and click the Start Scenario button.  The new app can be used on any map in freeroam mode.  The location must have two waypoints and one road between the waypoint's to the ai's spawn point.  
 2) Added tooltips to the Scenario loading screen. Click the ? mark for more information.

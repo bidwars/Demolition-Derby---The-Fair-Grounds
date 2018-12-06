@@ -1,5 +1,8 @@
 # Demolition-Derby---The-Fair-Grounds
 
+9.0.5 
+1) Fix for xbox controller issue.  Caused by having the menu active with the scenario started.  
+2) Fixed the racing ai on the derby map figure 8
 9.0.2 
 1) Testing to see if this fixes the shifting issues
 

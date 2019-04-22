@@ -1,4 +1,43 @@
 # Demolition-Derby---The-Fair-Grounds
+10.0.5
+1) Fixed scenario name not showing correctly on restarts.  Only happening on addon mods
+2) Fixed and issue searching for available vehicles.  Causing a lua error and not loading vehicles. 
+3) Fixed an issue with the waypoints triggering for each vehicle.  In racing arena's you will not be able to switch vehicles anymore.  
+
+10.0.0
+1) Added Support for the following mods:
+The Realistic Derby Project by NoDakSmack -https://www.beamng.com/threads/the-realistic-derby-project-demolition-derby-mod-1-1-0.61069/
+
+High Speed Figure 8 Race by danielr -
+https://www.beamng.com/resources/high-speed-figure-8-race.8058/ 
+
+2) Menu Changes
+a) Added parts config for vehicle parts files created by NoDakSmack.
+b) Added a Custom Parts Tab that will allow you to select parts for each vehicle model.
+
+Custom Parts Tab 
+***You must have The Realistic Derby Project mod installed before the Custom Parts Tab will work. 
+
+***Only works for Large Cars vehicle classes 
+
+c) Menu reloading: menu options will save and reload when starting the program
+
+3) Added menu option for optional settings
+
+Options include
+Heats: Not Working!!!!
+Fire: allow or disable fires
+Fuel: allow or disable fuel leaks
+Camera: Driver camera auto rotation enable or disable
+Radiator: Set the over heating based on radiator damage. 
+
+4) Changed the Racing AI to use preset waypoints list. 
+
+Known Issues:
+Some of the parts combinations picked will cause vehicle instabilities. You will need to reload the scenario.
+figure 8 is not working with new ai waypoints system
+Waypoints are triggered from ai
+High Speed Figure 8 Race - reloading scenario causes scenario name and description to revert back to the Fair Ground Derby Scenario name and description
 
 9.0.5 
 1) Fix for xbox controller issue.  Caused by having the menu active with the scenario started.  

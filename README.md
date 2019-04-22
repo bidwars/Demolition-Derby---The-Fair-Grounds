@@ -1,8 +1,9 @@
 # Demolition-Derby---The-Fair-Grounds
-10.0.5
+10.0.6
 1) Fixed scenario name not showing correctly on restarts.  Only happening on addon mods
 2) Fixed and issue searching for available vehicles.  Causing a lua error and not loading vehicles. 
 3) Fixed an issue with the waypoints triggering for each vehicle.  In racing arena's you will not be able to switch vehicles anymore.  
+4) Fixed decal road for figure 8.
 
 10.0.0
 1) Added Support for the following mods:

@@ -1,4 +1,8 @@
 # Demolition-Derby---The-Fair-Grounds
+10.0.10
+1) Fixed the menu drop downs
+2) Fixed heat reloads
+
 10.0.6
 1) Fixed scenario name not showing correctly on restarts.  Only happening on addon mods
 2) Fixed and issue searching for available vehicles.  Causing a lua error and not loading vehicles. 

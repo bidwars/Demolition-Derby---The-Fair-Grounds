@@ -1,4 +1,11 @@
 # Demolition-Derby---The-Fair-Grounds
+10.1.0
+1) Fixed an error with the scenario end for derby causing beamng to crash to desktop
+2) Fixed some of the vehicle high beam strength for welding  
+3) Heats 
+ Worked on loading each round.
+ Worked on vehicle loading in the damaged state 
+
 10.0.10
 1) Fixed the menu drop downs
 2) Fixed heat reloads

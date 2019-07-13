@@ -5,6 +5,7 @@
 3) Heats 
  Worked on loading each round.
  Worked on vehicle loading in the damaged state 
+4) Fixed Random class not showing all vehicle options
 
 10.0.10
 1) Fixed the menu drop downs

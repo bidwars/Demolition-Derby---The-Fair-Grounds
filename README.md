@@ -1,7 +1,13 @@
 # Demolition-Derby---The-Fair-Grounds
+10.2.0 
+1) Created a dynamic roofsign that will be added to each of the vehicles.  The dynamic roofsign will display the vehicle number.  
+2) Fixed welding groups not being closed properly.
+3) Added a breakable roofstick to indicate when a vehicle is out.  
+4) Fixed the derby prefab to show bariers again. 
+
 10.1.0
 1) Fixed an error with the scenario end for derby causing beamng to crash to desktop
-2) Fixed some of the vehicle high beam strength for welding  
+2) Fixed some of the vehicle high beam strength for welding 
 3) Heats 
  Worked on loading each round.
  Worked on vehicle loading in the damaged state 

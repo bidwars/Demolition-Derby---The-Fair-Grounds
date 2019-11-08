@@ -9,6 +9,9 @@
 7) More work on heats to show loading message.
 8) Added driver name and number to show who is being called out
 9) Added configs for Bluebuck
+10) Fixed waypoints for figure 8 concrete
+11) Fixed place app lap count 
+12) Updated ai file to newest beamng version
 
 10.1.0
 1) Fixed an error with the scenario end for derby causing beamng to crash to desktop

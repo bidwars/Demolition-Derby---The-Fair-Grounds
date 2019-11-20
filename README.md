@@ -1,18 +1,19 @@
 # Demolition-Derby---The-Fair-Grounds
 10.2.0 
-1) Created a dynamic roofsign that will be added to each of the vehicles.  The dynamic roofsign will display the vehicle number.  
+1) Created a dynamic roofsign that will be added to each of the vehicles.  The roofsign will display the vehicle number.  
 2) Fixed welding groups not being closed properly
 3) Added a breakable roofstick to indicate when a vehicle is out  
 4) Fixed the derby prefab to show barriers again
 5) Fixed the ai waypoint system so it finds the correct arena waypoints
-6) Changed the spawn roation and position function to correct heats not spawning in the correct direction
+6) Changed the spawn roation and position function 
 7) More work on heats to show loading message.
 8) Added driver name and number to show who is being called out
 9) Added configs for Bluebuck
 10) Fixed waypoints for figure 8 concrete
 11) Fixed place app lap count 
 12) Updated ai file to newest beamng version
-13) Added settings for roofsign, roofstick, and welds. 
+13) Added settings for roofsign, roofstick, and welds
+14) Add the Big 8 track
 
 10.1.0
 1) Fixed an error with the scenario end for derby causing beamng to crash to desktop

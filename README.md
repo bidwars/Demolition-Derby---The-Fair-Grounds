@@ -1,4 +1,7 @@
 # Demolition-Derby---The-Fair-Grounds
+10.3.0
+1) Many updates to the Derby AI.  Added code for distance to walls to prevent them from getting stuck. 
+
 10.2.0 
 1) Created a dynamic roofsign that will be added to each of the vehicles.  The roofsign will display the vehicle number.  
 2) Fixed welding groups not being closed properly
